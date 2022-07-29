@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Conditional-dropDown/static/css/main.5bc1dcda.css",
+    "main.js": "/Conditional-dropDown/static/js/main.00578951.js",
+    "static/js/787.f055211e.chunk.js": "/Conditional-dropDown/static/js/787.f055211e.chunk.js",
+    "index.html": "/Conditional-dropDown/index.html",
+    "main.5bc1dcda.css.map": "/Conditional-dropDown/static/css/main.5bc1dcda.css.map",
+    "main.00578951.js.map": "/Conditional-dropDown/static/js/main.00578951.js.map",
+    "787.f055211e.chunk.js.map": "/Conditional-dropDown/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bc1dcda.css",
+    "static/js/main.00578951.js"
+  ]
+}
