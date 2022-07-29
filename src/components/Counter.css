@@ -1,0 +1,46 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    align-items: center;
+}
+
+.float-container {
+    border: 3px solid #fff;
+    padding: 20px;
+    display: flex;
+}
+
+.float-child {
+     float: left;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 5px;
+    min-width: 200px !important;
+}
+
+.decrement-btn{
+    width: 20%;
+    padding: 1px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.increment-btn{
+    width: 20%;
+    padding: 1px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.dropdown-btn{
+    display: flex;
+    gap: 5px;
+}
+
+.btn-flex{
+    display: flex;
+    gap: 5px;
+    margin-top: 20px;
+}
